@@ -24,8 +24,7 @@ I am a third year *Computer Science* major here at UCSD. I enjoy **building** th
 1. **[Bay Area Covid Tutoring](https://github.com/Harrisonle128/BACT)**  
    A platform connecting tutors with students, featuring real-time collaboration and chalkboard drawing features.
 
-2. **Markdown User Page (this page!)**  
-   Built with Markdown, hosted with GitHub Pages.
+2. This one!
 
 ## Favorite Piece of Code 
 
