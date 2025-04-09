@@ -39,7 +39,7 @@ public class HelloWorld {
 
 [Go to Technical](#technical)
 
-[VSCode Screenshot](screenshots/vscode_commit.png)
+[Favorite Animal](screenshots/vscode_commit.png)
 
 - [x] Finish Lab 1
 - [ ] Start Lab 2
