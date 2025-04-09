@@ -1,7 +1,7 @@
 # I'm Harrison Le
 
 ## Who I am
-I am a third year *Computer Science* major here at UCSD. I enjoy **building** things and hope to be able to ship out products that ***millions of people use!***. 
+I am a third year *Computer Science* major here at UCSD. I enjoy **building** things and hope to be able to ship out products that ***millions of people use!*** 
 
 ---
 
