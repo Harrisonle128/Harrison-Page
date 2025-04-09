@@ -28,18 +28,20 @@ I am a third year *Computer Science* major here at UCSD. I enjoy **building** th
    Built with Markdown, hosted with GitHub Pages.
 
 ## Favorite Piece of Code 
-```Java
+
+```java
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
+```
 
 [Go to Technical](#technical)
 
 [VSCode Screenshot](screenshots/vscode_commit.png)
 
-![Harrison](screenshots/Harrison.JPG)
-
 - [x] Finish Lab 1
 - [ ] Start Lab 2
+
+![Harrison](screenshots/Harrison.JPG)
