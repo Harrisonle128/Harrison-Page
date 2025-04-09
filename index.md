@@ -37,11 +37,15 @@ public class HelloWorld {
 }
 ```
 
-[Go to Technical](#technical)
+[My Technical abilities](#technical)
 
-[Favorite Animal](screenshots/vscode_commit.png)
 
 - [x] Finish Lab 1
 - [ ] Start Lab 2
 
+## My Profile Picture
+
+[Click here to view my profile picture](screenshots/Harrison.JPG)
+
 ![Harrison](screenshots/Harrison.JPG)
+
