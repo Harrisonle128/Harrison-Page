@@ -23,7 +23,7 @@ I am a third year *Computer Science* major here at UCSD. I enjoy **building** th
 
 ## Projects
 1. **[Bay Area Covid Tutoring](https://github.com/Harrisonle128/BACT)**  
-   A platform connecting tutors with students, featuring real-time collaboration and chalkboard drawing features.
+   A platform connecting tutors with students which came from the disparities that were prevalent during COVID-19.
 
 2. This one!
 
