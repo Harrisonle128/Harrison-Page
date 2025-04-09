@@ -6,7 +6,8 @@ I am a third year *Computer Science* major here at UCSD. I enjoy **building** th
 ---
 
 ## Favorite Quote
-> “"I have not failed. I've just found 10,000 ways that won't work." – Thomas Edison”    
+> “"I have not failed. I've just found 10,000 ways that won't work." – Thomas Edison”
+   
 ## Hobbies and interests
 - Golf
 - Weightliting
